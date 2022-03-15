@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **React⚛️**
 
-- 📫 Reach me at: **aaamine.contact@gmail.com**
+- 📫 Reach me at **aaamine.contact@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
