@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Amine. A fullstack developer.</h3>
+<h3 align="center">Hi, I'm Amine. I like Front-End and stuff.</h3>
 
 - 🌱 I’m currently learning **Vue & NuxtJS🔺**
 
