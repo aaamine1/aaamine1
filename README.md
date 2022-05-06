@@ -4,7 +4,7 @@
 
 - 📫 Reach me at **aaamine.contact@gmail.com**
 
-
+<div class="display-none">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
@@ -26,3 +26,4 @@
  </div> 
   
 </p>
+</div>
