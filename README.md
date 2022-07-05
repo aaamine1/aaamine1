@@ -1,4 +1,4 @@
-<h3 align="center">Full Stack Development</h3>
+<h3 align="center">Full Stack Dev</h3>
 
 
 📫 Reach me at **aaamine.contact@gmail.com**
