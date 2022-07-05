@@ -5,7 +5,7 @@
 
 🌐 <a href="https://aaamine.me/" target="_blank"> My Website</a>
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/aaamine1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 
 
