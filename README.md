@@ -1,10 +1,11 @@
-<h3 align="center">Hi, I'm Amine. I like Front-End and stuff.</h3>
+<h3 align="center">Full Stack Development</h3>
 
--  I’m currently learning how to code Discord & Reddit bots.
 
-- 📫 Reach me at **aaamine.contact@gmail.com**
+📫 Reach me at **aaamine.contact@gmail.com**
 
-- 🌐 <a href="https://aaamine.me/" target="_blank"> My Website</a>
+🌐 <a href="https://aaamine.me/" target="_blank"> My Website</a>
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 
 
